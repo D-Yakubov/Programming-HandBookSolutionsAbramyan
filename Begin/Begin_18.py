@@ -1,0 +1,7 @@
+print("Sonlar o'qida A, B va C nutalarni kiriting:")
+A=int(input("A="))
+B=int(input("B="))
+C=int(input("C="))
+AC=abs(C-A)
+BC=abs(C-B)
+print("AC va BC kesmalar uzunligining ko'paytmasi:",AC*BC)

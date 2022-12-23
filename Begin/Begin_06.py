@@ -1,0 +1,5 @@
+print("Paralelepepidning tomonlarini mos ravishda kiriting:")
+a=int(input("a="))
+b=int(input("b="))
+c=int(input("c="))
+print("Paralelepepid hajmi: V=",a*b*c,"ga, To'la sirti: S=",2*(a*b+b*c+a*c),"ga teng")

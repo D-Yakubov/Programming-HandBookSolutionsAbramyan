@@ -1,0 +1,5 @@
+v1 = int(input("V1= "))
+v2 = int(input("V2= "))
+s=int(input("s= "))
+t=int(input("T= "))
+print(f"Ular orasidagi masofa: S = {s+t*(v1+v2)} ga teng.")

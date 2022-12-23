@@ -1,0 +1,7 @@
+print("Sonlar o'qida a, b va c nuqtalarni mos ravishda kiriting:")
+A=int(input("A="))
+B=int(input("B="))
+C=int(input("C="))
+AC=abs(C-A)
+BC=abs(C-B)
+print("AC kesmaning uzunligi:",AC,"ga, BC kesmaniki:",BC,"ga, ularning yig'indisi:",AC+BC,"ga teng")
