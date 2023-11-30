@@ -9,8 +9,8 @@ Bu masalalar asosan dasturlashni boshlovchilar uchun tavfsiya qilinadi.<br>
 
 Source: <br>
 <p>Programming Taskbook</p>
-http://ptaskbook.com/en/tasks/index.php
-<p>Download original book:<br>
+http://ptaskbook.com/en/tasks/index.php <br>
+<p>Download original book:
 http://ptaskbook.com/download/Abramyan-ProblemBook.pdf
 </p>
 </p>
