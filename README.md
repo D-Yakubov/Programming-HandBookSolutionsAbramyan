@@ -8,7 +8,8 @@ Masalalar va ularning yechimi Abramyan (Qudrat Abdurahimov deb ham yuritiladi) m
 Bu masalalar asosan dasturlashni boshlovchilar uchun tavfsiya qilinadi.<br>
 
 Source: <br>
-Programming Taskbook<br>
+<p>Programming Taskbook<br></p>
 http://ptaskbook.com/en/tasks/index.php<br>
+<p>Download original book:</p>
 http://ptaskbook.com/download/Abramyan-ProblemBook.pdf<br>
 </p>
