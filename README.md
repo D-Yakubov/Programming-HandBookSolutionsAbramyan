@@ -10,6 +10,7 @@ Bu masalalar asosan dasturlashni boshlovchilar uchun tavfsiya qilinadi.<br>
 Source: <br>
 <p>Programming Taskbook<br></p>
 http://ptaskbook.com/en/tasks/index.php<br>
-<p>Download original book:</p>
+<p>Download original book:
 http://ptaskbook.com/download/Abramyan-ProblemBook.pdf<br>
+</p>
 </p>
