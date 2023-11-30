@@ -1,7 +1,7 @@
 # Programming HandBook By Abramyan,<br>(Abramyan masalalar kitobi yechimlari bilan)
 
 <p>
-All of the exercises from Programming TaskBook by Abramyan (М. Э. Абрамян) <br>
+All of the exercises from <strong>Programming TaskBook by Abramyan</strong> (М. Э. Абрамян) <br>
 
 Masalalar va ularning yechimi Abramyan (Qudrat Abdurahimov deb ham yuritiladi) masalalar kitobidan.<br>
 
