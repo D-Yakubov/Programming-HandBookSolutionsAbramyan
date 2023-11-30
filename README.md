@@ -1,4 +1,4 @@
-# Programming HandBook By Abramyan (Abramyan masalalar kitobi yechimlari bilan)
+# Programming HandBook By Abramyan,<br>(Abramyan masalalar kitobi yechimlari bilan)
 
 <p>
 All of the exercises from Programming TaskBook by Abramyan (М. Э. Абрамян) <br>
